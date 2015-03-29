@@ -1,0 +1,10 @@
+G:\COMP9571\Class Mar 14\Project1Solution\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+G:\COMP9571\Class Mar 14\Project1Solution\Project1\bin\Project1.dll
+G:\COMP9571\Class Mar 14\Project1Solution\Project1\bin\Project1.pdb
+G:\COMP9571\Class Mar 14\Project1Solution\Project1\obj\Debug\Project1.dll
+G:\COMP9571\Class Mar 14\Project1Solution\Project1\obj\Debug\Project1.pdb
+J:\COMP9571\Class Mar 14\Project1Solution\Project1\bin\Project1.dll
+J:\COMP9571\Class Mar 14\Project1Solution\Project1\bin\Project1.pdb
+J:\COMP9571\Class Mar 14\Project1Solution\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+J:\COMP9571\Class Mar 14\Project1Solution\Project1\obj\Debug\Project1.dll
+J:\COMP9571\Class Mar 14\Project1Solution\Project1\obj\Debug\Project1.pdb

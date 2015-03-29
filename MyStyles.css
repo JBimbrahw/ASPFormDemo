@@ -1,0 +1,16 @@
+﻿body {
+    background-color: #0094ff;
+}
+[type=text] {
+    position: absolute;
+    left: 180px;
+}
+
+#hiddendiv {
+    visibility: hidden;
+}
+
+.on_left, on_right {
+    display: inline-block;
+    width: 18%;
+}
