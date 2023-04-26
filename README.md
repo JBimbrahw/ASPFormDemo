@@ -1,5 +1,5 @@
 # ASPFormDemo
-This repo is intended as a starter for someone learning to create ASP.net forms.
+This repo is intended as a starter for someone learning to create ASP.NET forms.
 
 This is a sample program using ASP.NET forms written in C# using Visual Studio 2012 Web Developer
 
